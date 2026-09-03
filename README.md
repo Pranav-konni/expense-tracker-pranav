@@ -23,3 +23,8 @@ Add expenses
 
 In chart we can see the expense based on categories and come to right screen we can see the transaction history both income and salary. We can also choose which one should have shows in transaction section.
 And top side we can see the Total income, Total Expenses, Available balances and Number of transanctions.
+
+
+Screenshot expense track
+---------------------------------
+![image alt] (https://github.com/Pranav-konni/expense-tracker-pranav/blob/59bd379c567526e93d287dc66a22204fcd29d4ed/Screenshot%202026-09-03%20122853.png)
