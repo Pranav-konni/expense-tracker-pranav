@@ -27,4 +27,4 @@ And top side we can see the Total income, Total Expenses, Available balances and
 
 Screenshot expense track
 ---------------------------------
-![image alt](./Screenshot 2026-09-03 122853.png)
+![image alt](https://raw.githubusercontent.com/Pranav-konni/expense-tracker-pranav/59bd379c567526e93d287dc66a22204fcd29d4ed/Screenshot%202026-09-03%20122853.png)
